@@ -1,0 +1,12 @@
+[
+  {
+    "judul": "Ini adalah judul artikel 1",
+    "isi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur varius, elit in ultrices efficitur, ipsum sapien maximus dui, at vulputate ligula sem ac ante. Mauris nec laoreet magna, non consectetur urna. Sed velit tellus, pharetra vitae sapien vehicula, congue vehicula sem. Pellentesque ac nulla nec nisl cursus sagittis. In et quam in augue fermentum maximus. Donec eleifend tellus erat, id sollicitudin dolor sollicitudin eget. Fusce sit amet nibh ut velit facilisis aliquet sed at ligula. In nunc dolor, semper in libero ut, tempor porttitor felis. Cras ex dolor, blandit at sagittis eget, tempor id turpis. Vestibulum bibendum magna ac tincidunt aliquam. Praesent aliquam dictum nibh id blandit. Cras id ultrices arcu, vehicula pellentesque erat. Curabitur non metus leo. Sed nec imperdiet erat, at finibus risus. Sed pretium nulla at ante facilisis, vitae tincidunt nisi pretium.",
+    "gambar": "https://dsznajder.gallerycdn.vsassets.io/extensions/dsznajder/es7-react-js-snippets/2.3.0/1558423023768/Microsoft.VisualStudio.Services.Icons.Default"
+  },
+  {
+    "judul": "Ini adalah judul artikel 2",
+    "isi": "Hai Hai Hai Hai Hai",
+    "gambar": "https://dsznajder.gallerycdn.vsassets.io/extensions/dsznajder/es7-react-js-snippets/2.3.0/1558423023768/Microsoft.VisualStudio.Services.Icons.Default"
+  }
+]
